@@ -1,2 +1,1 @@
-# ali-
-I'm learning Python . I'm a student at konya . My english level is very bad...
+and i am ironlai
